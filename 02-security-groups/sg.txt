@@ -1,0 +1,3 @@
+- Inorder to get the data from project (01-vpc) to this project (02-sg) we use the service called "AWS System Manager"   in which we use "System Parameter store" (can store key-value pairs).
+- SSM Parameter storage is like configure storage(cetral storage)
+- It stores key-value pair
